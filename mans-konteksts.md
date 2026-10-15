@@ -9,7 +9,7 @@
 - Kods: modify/write (no studies: Python, C#, JS, PHP, HTML/CSS; aktīvs Colab kods ar debugošanu)
 
 ## Rīku stack
-**Maksas AI rīki:** Perplexity Pro (via Revolut Ultra), Google AI Plus (Gemini), Claude (aktīvs lietotājs), ChatGPT (minēts salīdzinājumos)
+**Maksas AI rīki:** Perplexity Pro, Google AI Plus (Gemini), Claude (aktīvs lietotājs), ChatGPT (minēts salīdzinājumos)
 
 **Citi profesionālie rīki:** Google Colab PRO (A100 GPU, High RAM), n8n (workflow automation), VS Code, Visual Studio 2019, GitHub, MySQL/MS SQL, phpMyAdmin, Stremio + Real-Debrid, ffmpeg, Vercel
 
@@ -21,7 +21,7 @@
 - n8n: uzstādīts
 - VS Code: uzstādīts
 - GitHub: uzstādīts
-- Stremio + Real-Debrid: uzstādīts
+- 
 
 ## Darba konteksts
 - Profesija: ICT specialists / AI & datu analītikas students (Turiba STARS, mimacibas.lv)
